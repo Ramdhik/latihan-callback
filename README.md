@@ -77,6 +77,8 @@ $('.search-button').on('click', function () {
   });
 });
 ```
+## Contoh Callback di app.js
+```javascript
 // Fungsi untuk menampilkan hasil pencarian
 function showCards(m) {
   return `<div class="col md-4 my-5">

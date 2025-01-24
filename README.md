@@ -77,9 +77,8 @@ $('.search-button').on('click', function () {
   });
 });
 ```
-## Contoh Callback di app.js
+## Contoh Fungsi untuk menampilkan hasil pencarian
 ```javascript
-// Fungsi untuk menampilkan hasil pencarian
 function showCards(m) {
   return `<div class="col md-4 my-5">
           <div class="card" style="width: 18rem">

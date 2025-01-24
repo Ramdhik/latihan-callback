@@ -109,10 +109,10 @@ function showMovieDetails(m) {
                 </div>
               </div>
             </div>`;
-}
+};
 
 
-
+```
 ## Cara Menggunakan
 
 1. Masukkan judul film pada kolom pencarian.
@@ -129,4 +129,10 @@ function showMovieDetails(m) {
 - [Dokumentasi jQuery](https://api.jquery.com/)
 - [Bootstrap](https://getbootstrap.com/)
 - [OMDb API](https://www.omdbapi.com/)
+
+
+
+
+
+
 
